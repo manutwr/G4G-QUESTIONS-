@@ -9,7 +9,7 @@ class Solution {
             if (arr[i] < min_val) { // finding the minimum value;
                 min_val = arr[i];
             }
-            if (arr[i] > max_val) {
+            if (arr[i] > max_val) { // finding the maximum value
                 max_val = arr[i];
             }
         }
