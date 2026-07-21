@@ -6,7 +6,7 @@ class Solution {
         int max_val = arr[0];
         
         for (int i = 1; i < arr.size(); i++) {
-            if (arr[i] < min_val) {
+            if (arr[i] < min_val) { // finding the minimum value;
                 min_val = arr[i];
             }
             if (arr[i] > max_val) {
