@@ -3,7 +3,7 @@ public:
     bool divby13(string &s) {
         int remainder = 0; // didgit by digit checking
 
-        for (char c : s) { // loop
+        for (char c : s) { // loop 
           
             int digit = c - '0'; // convert into digit
 
