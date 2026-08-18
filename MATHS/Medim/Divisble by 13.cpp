@@ -14,3 +14,4 @@ public:
         return remainder == 0; // agar finalremaind ki value 0 ho gyi to loop return maar dena 
     }
 };
+ 
