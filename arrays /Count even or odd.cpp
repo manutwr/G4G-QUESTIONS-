@@ -9,8 +9,8 @@ class Solution {
                odd ++;
                
            }
-           else {
-               even ++;
+           else { 
+               even ++; // even ko plus krna hai
            }
             
         }
