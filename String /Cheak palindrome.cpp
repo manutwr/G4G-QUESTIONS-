@@ -9,7 +9,7 @@ public:
                 return false;
             }
             left++;
-            right--;
+            right--; 
         } 
 
         return true;
