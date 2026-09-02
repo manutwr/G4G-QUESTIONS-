@@ -9,7 +9,7 @@ class Solution {
         
         
         while (start <= end ){
-            int mid = start + (end - start)/2;
+            int mid = start + (end - start)/2; 
             
             if (arr[mid] == 0){
              Fzero = mid ; // containeer me value store kro
