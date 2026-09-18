@@ -5,7 +5,7 @@ class Solution {
         int n = arr.size();
         int start = 0;
         int end = n-1;
-        int Fzero = -1;  // ek container 
+        int Fzero = -1;  // ek container banao
         
         
         while (start <= end ){
