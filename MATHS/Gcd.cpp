@@ -9,7 +9,7 @@ class Solution {
           else {
               b = b%a ; // agar a chote hai 
           }
-          
+             
           }
           if (a== 0) return b; // agaar a zero hai to ans b ho jayega 
           return a; // agar b = 0 hai to and a ho jayega 
