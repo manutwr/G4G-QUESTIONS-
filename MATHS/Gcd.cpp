@@ -4,7 +4,7 @@ class Solution {
         // code here
       while (a>0 && b>0 ){// check if a and b greater then 0
           if (a>b){ // agar a bada hai b se 
-          a = a%b ; // then a hojayega a%b 
+          a = a%b ; // then a hojayega a%b
           }     
           else {
               b = b%a ; // agar a chote hai 
