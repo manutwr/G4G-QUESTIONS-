@@ -4,7 +4,7 @@ class Solution {
         // code here
         int odd = 0; // even cont 
         int even = 0; // odd count 
-        for (int i = 0 ; i < arr.size(); i++){
+        for (int i = 0 ; i < arr.size(); i++){ // loop 
            if (arr[i]%2 != 0 ){
                odd ++;  
                
