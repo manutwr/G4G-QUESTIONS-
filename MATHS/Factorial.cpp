@@ -6,6 +6,6 @@ class Solution {
         for (int i=1 ; i<=n ; i++){ // loop inserion
             ans = ans * i;    // ans insertion
         }
-        return ans;
+        return ans; 
     }
 };
