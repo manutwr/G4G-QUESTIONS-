@@ -6,7 +6,7 @@ public:
             if (a>b){
                 a= a%b; 
             }
-            else {
+            else { 
                 b= b%a;
             } 
             
