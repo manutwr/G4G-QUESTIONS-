@@ -8,7 +8,7 @@ public:
             }
             else { 
                 b= b%a;
-            } 
+            }     
             
         }
           if (a==0)return b; // iss statement ko hamesha loop ke bhr rkhna hai 
