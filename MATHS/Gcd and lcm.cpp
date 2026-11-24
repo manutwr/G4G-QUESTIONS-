@@ -3,7 +3,7 @@ public:
     // Helper function to calculate GCD using Euclidean algorithm
     int findGcd(int a, int b) {
         while (a>0 && b>0 ){
-            if (a>b){
+            if (a>b){   
                 a= a%b; 
             }     
             else { 
