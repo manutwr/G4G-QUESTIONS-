@@ -17,5 +17,5 @@ class Solution {
     int lcm(int a, int b) { // lcm function banao
        
         return (a / gcd(a, b)) * b; // gcd ko call kro aur lcm ka formula maaro  
-    }
+    }   
 };
