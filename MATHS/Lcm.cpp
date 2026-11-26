@@ -6,7 +6,7 @@ class Solution {
           if (a > b ){ // agar a bada hai b se 
               a = a % b ; // then a mod b 
           }
-          else {
+          else { 
               b = b % a ; // nii to b mod a 
           }
       }
