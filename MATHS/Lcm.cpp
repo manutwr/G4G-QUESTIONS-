@@ -1,6 +1,6 @@
-class Solution {
+class Solution { 
   public:   
-    // Helper function to calculate GCD using the Euclidean algorithm
+    // Helper function to calculate GCD using the Euclidean algorit  hm
     int gcd(int a, int b) {      
       while (a > 0 && b > 0){ // a aur b ko 0 se bada hona cahaiye 
           if (a > b ){ // agar a bada hai b se 
